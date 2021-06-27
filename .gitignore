@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+myvenv
+public
 
 # local env files
 .env.local
