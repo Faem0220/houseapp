@@ -1,4 +1,0 @@
-
-VENTAS
-    Se elige la casa y al hacer click lleva a la página con la información y fotos de esa casa
-    La idea es lograr que no sean varias páginas sino una sola que cambie la información
